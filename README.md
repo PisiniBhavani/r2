@@ -1,2 +1,2 @@
 # r2
-thusis second new repository
+this is second new repository
